@@ -1,2 +1,2 @@
 <?php
-echo'parduotuves sandelis';
+echo'parduotuves sandeliss';
